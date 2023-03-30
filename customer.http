@@ -2,3 +2,6 @@ GET http://localhost:7070/customers/test
 
 ###
 GET http://localhost:7070/customers/list
+
+### Token customer
+GET http://localhost:7070/customers/currency/John
